@@ -1,5 +1,8 @@
 Objective:
 To analyze the Highcloud Airlines dataset to determine load factors for different carriers and provide insights for optimizing airline operations.
+
+
+
 Approach:
 Data Extraction & Preparation: Extracted data from SQL and created a date table to define the financial year for better temporal analysis.
 KPI Development: Built KPIs to evaluate weekday vs. weekend performance, total passengers, and total flights.
