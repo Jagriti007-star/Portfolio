@@ -1,4 +1,8 @@
+Objective:
 The goal was to analyze successful projects funded through Kickstarter and provide actionable insights.
+
+
+
 Approach
 • Data Cleaning & Modeling: Removed redundancies and structured the data for meaningful analysis. Created a calendar table with financial months and quarters for better time-based insights.
 • Dashboard Creation: Developed an interactive and insightful dashboard to visualize project outcomes, locations, and categories. Integrated KPIs to provide an overview of project performance.
